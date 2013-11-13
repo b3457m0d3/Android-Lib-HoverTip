@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HoverTip Samples</string>
+    <string name="instruction">Long-click or hover using Samsung S-Pen on any widget to see HoverTip in action</string>
+    <string name="instruction_tip">Tip for label</string>
+    <string name="button">Button</string>
+    <string name="button_tip">Tip for button</string>
+    <string name="image_tip">Tip for image</string>
+</resources>
